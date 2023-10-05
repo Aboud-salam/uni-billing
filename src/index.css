@@ -6,10 +6,13 @@ body {
   direction: rtl;
   font-family: "Noto Kufi Arabic", sans-serif;
 }
+.font-auto {
+  font-family: auto;
+}
 .font-arial {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  font-weight: 700;
+
   display: block;
   font-size: large;
 }

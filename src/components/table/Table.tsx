@@ -24,47 +24,47 @@ export const Table = () => {
           </thead>
           <tbody className="text-center">
             <tr>
-              <td>1</td>
+              <td className="font-auto font-light">1</td>
               <td className="w-[350px] text-right">ENGL3320 اللغويات (3)</td>
               <td></td>
-              <td>3</td>
+              <td className="font-auto">3</td>
             </tr>
             <tr>
-              <td>2</td>
+              <td className="font-auto">2</td>
               <td className="w-[350px] text-right">ENGL3321 الترجمة (3)</td>
               <td></td>
-              <td>3</td>
+              <td className="font-auto">3</td>
             </tr>
             <tr>
-              <td>3</td>
+              <td className="font-auto">3</td>
               <td className="w-[350px] text-right">
                 FRENCH MEDIUM LITER <span>FREN3310</span>
               </td>
               <td></td>
-              <td>3</td>
+              <td className="font-auto">3</td>
             </tr>
             <tr>
-              <td>4</td>
+              <td className="font-auto">4</td>
               <td className="w-[350px] text-right">
                 HIST3302 فلسطين الارض والانسان
               </td>
               <td></td>
-              <td>2</td>
+              <td className="font-auto">2</td>
             </tr>
             <tr>
-              <td>5</td>
+              <td className="font-auto">5</td>
               <td className="w-[350px] text-right">
                 {" "}
                 TUTORIAL IN FRENCH<span>FREN3310</span>
               </td>
               <td></td>
-              <td>2</td>
+              <td className="font-auto">2</td>
             </tr>
             <tr>
-              <td>6</td>
+              <td className="font-auto">6</td>
               <td className="w-[350px] text-right">OPTI3301 ساعات اختيارية</td>
               <td></td>
-              <td>5</td>
+              <td className="font-auto">5</td>
             </tr>
           </tbody>
         </table>
