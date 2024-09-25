@@ -7,7 +7,7 @@ export const Table = () => {
         <div className="font-bold">
           المواد المسجلة :{" "}
           <span className="text-red-500 font-bold">
-            الفصل الاول : 2023/2024
+            الفصل الثاني : 2023/2024
           </span>
         </div>
         <div className="text-red-500 font-bold pl-6">الملخص المالي</div>
@@ -46,22 +46,14 @@ export const Table = () => {
             <tr>
               <td className="font-auto">4</td>
               <td className="w-[350px] text-right">
-                HIST3302 فلسطين الارض والانسان
+                {" "}
+                TUTORIAL IN FRENCH <span>FREN3310</span>
               </td>
               <td></td>
-              <td className="font-auto">2</td>
+              <td className="font-auto">3</td>
             </tr>
             <tr>
               <td className="font-auto">5</td>
-              <td className="w-[350px] text-right">
-                {" "}
-                TUTORIAL IN FRENCH<span>FREN3310</span>
-              </td>
-              <td></td>
-              <td className="font-auto">2</td>
-            </tr>
-            <tr>
-              <td className="font-auto">6</td>
               <td className="w-[350px] text-right">OPTI3301 ساعات اختيارية</td>
               <td></td>
               <td className="font-auto">5</td>
@@ -77,7 +69,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol8"
                   className="font-arial"
                 >
-                  18
+                  17
                 </span>
               </td>
             </tr>
@@ -99,7 +91,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol6"
                   className="font-arial"
                 >
-                  342
+                  323
                 </span>
               </td>
             </tr>
@@ -121,7 +113,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol5"
                   className="font-arial"
                 >
-                  150
+                  0
                 </span>
               </td>
             </tr>
@@ -187,7 +179,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol9"
                   className="font-arial"
                 >
-                  200
+                  187
                 </span>
               </td>
             </tr>
@@ -198,7 +190,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol10"
                   className="font-arial"
                 >
-                  208
+                  339
                 </span>
               </td>
             </tr>

@@ -1,0 +1,8 @@
+ <tr>
+              <td className="font-auto">4</td>
+              <td className="w-[350px] text-right">
+                HIST3302 فلسطين الارض والانسان
+              </td>
+              <td></td>
+              <td className="font-auto">2</td>
+            </tr>
