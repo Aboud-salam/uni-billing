@@ -54,6 +54,14 @@ export const Table = () => {
             </tr>
             <tr>
               <td className="font-auto">5</td>
+              <td className="w-[350px] text-right">
+                ISLM2202 دراسات في العقيدة الاسلامية
+              </td>
+              <td></td>
+              <td className="font-auto">2</td>
+            </tr>
+            <tr>
+              <td className="font-auto">6</td>
               <td className="w-[350px] text-right">OPTI3301 ساعات اختيارية</td>
               <td></td>
               <td className="font-auto">5</td>
@@ -69,7 +77,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol8"
                   className="font-arial"
                 >
-                  17
+                  19
                 </span>
               </td>
             </tr>
@@ -91,7 +99,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol6"
                   className="font-arial"
                 >
-                  323
+                  361
                 </span>
               </td>
             </tr>
@@ -102,7 +110,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol11"
                   className="font-arial"
                 >
-                  0
+                  3
                 </span>
               </td>
             </tr>
@@ -190,7 +198,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol10"
                   className="font-arial"
                 >
-                  339
+                  380
                 </span>
               </td>
             </tr>
