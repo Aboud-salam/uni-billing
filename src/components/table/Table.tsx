@@ -25,20 +25,20 @@ export const Table = () => {
           <tbody className="text-center">
             <tr>
               <td className="font-auto font-light">1</td>
-              <td className="w-[350px] text-right">ENGL3320 اللغويات (3)</td>
+              <td className="w-[350px] text-right">ENGL3320 محدثة (2)</td>
               <td></td>
               <td className="font-auto">3</td>
             </tr>
             <tr>
               <td className="font-auto">2</td>
-              <td className="w-[350px] text-right">ENGL3321 الترجمة (3)</td>
+              <td className="w-[350px] text-right">ENGL3321 القراءة (2)</td>
               <td></td>
               <td className="font-auto">3</td>
             </tr>
             <tr>
               <td className="font-auto">3</td>
               <td className="w-[350px] text-right">
-                FRENCH MEDIUM LITER <span>FREN3310</span>
+                ENGL4326 الانشاء و المقال (3)
               </td>
               <td></td>
               <td className="font-auto">3</td>
@@ -47,7 +47,7 @@ export const Table = () => {
               <td className="font-auto">4</td>
               <td className="w-[350px] text-right">
                 {" "}
-                TUTORIAL IN FRENCH <span>FREN3310</span>
+                ENGL4327 الترجمة (3)
               </td>
               <td></td>
               <td className="font-auto">3</td>
@@ -55,16 +55,16 @@ export const Table = () => {
             <tr>
               <td className="font-auto">5</td>
               <td className="w-[350px] text-right">
-                ISLM2202 دراسات في العقيدة الاسلامية
+              FRENCH GRAMMER (2) <span>FREN3307</span>
               </td>
               <td></td>
-              <td className="font-auto">2</td>
+              <td className="font-auto">4</td>
             </tr>
             <tr>
               <td className="font-auto">6</td>
               <td className="w-[350px] text-right">OPTI3301 ساعات اختيارية</td>
               <td></td>
-              <td className="font-auto">5</td>
+              <td className="font-auto">3</td>
             </tr>
           </tbody>
         </table>
@@ -121,7 +121,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol5"
                   className="font-arial"
                 >
-                  0
+                  174
                 </span>
               </td>
             </tr>
@@ -198,7 +198,7 @@ export const Table = () => {
                   id="ctl00_ContentPlaceHolder1_LBLcol10"
                   className="font-arial"
                 >
-                  364
+                  190
                 </span>
               </td>
             </tr>
