@@ -25,7 +25,7 @@ export const Table = () => {
           <tbody className="text-center">
             <tr>
               <td className="font-auto font-light">1</td>
-              <td className="w-[350px] text-right">ENGL3320 محدثة (2)</td>
+              <td className="w-[350px] text-right">ENGL3320 محادثة (2)</td>
               <td></td>
               <td className="font-auto">3</td>
             </tr>
